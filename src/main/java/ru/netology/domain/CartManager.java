@@ -1,6 +1,6 @@
 package ru.netology.domain;
 
-public class CardManager {
+public class CartManager {
     private PurchaseItem[] items = new PurchaseItem[0];
 
     public void add(PurchaseItem item) {
